@@ -1,2 +1,3 @@
 # CLI_gitworkflow
-Projeto de exemplo e testes.
+
+Site de exemplo do curso GIT Workflow para Upinside Treinamentos.
